@@ -47,7 +47,7 @@ Program that lets you to generate random password. It generates random password 
 Its functions:
 
 It can generate password with upper cases, lower cases, numbers and with symbols.
-It can generate "n" count that was writen but by default it will generate 5 random passwords.
+It can generate "n" count that was written in the function but by default it will generate 5 random passwords.
 It can numerate generated passwords so that should be easier to navigate through them.
-It can clear output text area to generate a new passwords.
+It can clear output text area to generate a new password.
 It can save generated passwords to a text file.

@@ -94,8 +94,8 @@ class PasswordGeneratorApp:
 
         length = int(length_str)
         use_uppercase = self.use_uppercase_var.get()
-        use_numbers = self.use_numbers_var.get()
         use_lowercase = self.use_lowercase_var.get()
+        use_numbers = self.use_numbers_var.get()
         use_symbols = self.use_symbols_var.get()
 
         characters = ""
